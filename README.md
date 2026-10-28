@@ -40,6 +40,8 @@ A RESTful healthcare backend built with Node.js, Express.js, PostgreSQL, Prisma 
 
    `npx prisma migrate deploy`
 
+   `npx prisma generate`
+
 7. Start the server:
 
    `npm start`
